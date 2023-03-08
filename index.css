@@ -1,0 +1,24 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+html{
+    justify-content: center;
+    display: flex;
+    background-color: var(--text-color);
+}
+:root{
+    --background:#141414;
+    --text-color:#fff;
+    --primary--color:#63ff69;
+    --secondary-color:#000;
+    --alpha-color:rgba(0,0,0, 0.5);
+    --shadow:0 15px 40px var(--alpha-color);
+}
+.sidebar{
+    width:274;
+    background-color: green;
+    margin-right: ;
+}
